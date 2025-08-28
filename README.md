@@ -29,24 +29,16 @@ Powered by [TheMealDB](https://www.themealdb.com/api.php), Cooksy provides meal 
 ## 📦 Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/cooksy.git
+- git clone https://github.com/your-username/cooksy.git
 cd cooksy
 
-text
-
 2. Install dependencies:
-npm install
-
-text
-or
-yarn install
-
-text
+- npm install
+- or
+- yarn install
 
 3. Run the app:
-npx expo start
-
-text
+- npx expo start
 
 ---
 

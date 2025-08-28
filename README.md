@@ -29,16 +29,16 @@ Powered by [TheMealDB](https://www.themealdb.com/api.php), Cooksy provides meal 
 ## 📦 Installation
 
 1. Clone the repository:
-- git clone https://github.com/your-username/cooksy.git
-cd cooksy
+`git clone https://github.com/your-username/cooksy.git
+cd cooksy`
 
 2. Install dependencies:
-- npm install
-- or
-- yarn install
+`npm install`
+  or
+`yarn install`
 
 3. Run the app:
-- npx expo start
+`npx expo start`
 
 ---
 
@@ -82,7 +82,12 @@ No custom API key is required – the app uses the default test key `1`.
 ---
 
 ## 📱 Screenshots (Optional)
-_Add your app screenshots here (e.g. Home screen, Recipe details, Favorites)._
+<img width="162" height="363" alt="Screenshot_1756373169" src="https://github.com/user-attachments/assets/390cc570-43c5-43ca-91f9-7877fa8e9978" />
+<img  width="162" height="363" alt="Screenshot_1756373460" src="https://github.com/user-attachments/assets/9ed23a6c-b4c7-4cb4-aa74-171676939c58" />
+<img  width="162" height="363" alt="Screenshot_1756373498" src="https://github.com/user-attachments/assets/bccdb5b5-0a44-4f32-9c1a-837829c40ee9" />
+<img  width="162" height="363" alt="Screenshot_1756373473" src="https://github.com/user-attachments/assets/1c282dd9-427d-4d72-ab8f-2d094a50409c" />
+<img  width="162" height="363" alt="Screenshot_1756373504" src="https://github.com/user-attachments/assets/13a86e04-8c9e-46ca-9796-5bafcf0f0785" />
+
 
 ---
 
